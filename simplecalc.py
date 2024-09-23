@@ -2,7 +2,7 @@ from tkinter import *
 
 window = Tk()
 window.title('Simple Calculator') 
-window.iconbitmap("C:/Users/CAROLINE/OneDrive/Pictures/calculator.ico")
+
 
 e=Entry(width=41,borderwidth=23,fg='white',bg='black')
 e.grid(row=0,column=0,columnspan=3)
